@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "moulay",
+      "age": 24,
+      "major": "cs",
+      "gpa": 3.00
+    }
+  ]
+}
