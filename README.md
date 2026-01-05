@@ -1,6 +1,6 @@
 # Simple Student Management System
 
-A simple, beginner-friendly Student Management System written in C++. This project demonstrates basic programming concepts like arrays, structures, file handling, and functions *without* using complex Object-Oriented Programming (OOP) features.
+A simple, beginner-friendly Student Management System written in C++. This project demonstrates basic programming concepts like arrays, structures, file handling, and functions.
 
 ## Features
 
