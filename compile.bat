@@ -4,14 +4,14 @@ echo Compiling Simple Student Management System
 echo ========================================
 echo.
 
-g++ -o StudentManagementSimple.exe simple_main.cpp
+g++ -o StudentManagement.exe main.cpp
 
 if %ERRORLEVEL% EQU 0 (
     echo.
     echo [SUCCESS] Compilation successful!
-    echo Executable created: StudentManagementSimple.exe
+    echo Executable created: StudentManagement.exe
     echo.
-    echo Run the program with: StudentManagementSimple.exe
+    echo Run the program with: StudentManagement.exe
     echo.
 ) else (
     echo.

@@ -90,3 +90,6 @@ desktop.ini
 # Temporary files
 *.tmp
 *.temp
+
+# txt files
+*.txt

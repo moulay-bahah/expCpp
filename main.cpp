@@ -20,7 +20,7 @@ struct Student {
 // Array to store students (maximum 100 students)
 Student students[100];
 int studentCount = 0;  // How many students we currently have
-const string FILENAME = "students_simple.txt";
+const string FILENAME = "students.txt";
 
 // ============================================
 // FUNCTION DECLARATIONS
